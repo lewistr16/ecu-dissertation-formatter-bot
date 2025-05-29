@@ -71,7 +71,7 @@ def insert_table_of_contents(document):
     fldChar1 = OxmlElement('w:fldChar')
     fldChar1.set(qn('w:fldCharType'), 'begin')
     instrText = OxmlElement('w:instrText')
-    instrText.text = 'TOC \o "1-3" \h \z \u'
+    instrText.text = r'TOC \o "1-3" \h \z \u'
     fldChar2 = OxmlElement('w:fldChar')
     fldChar2.set(qn('w:fldCharType'), 'end')
     run._r.append(fldChar1)
