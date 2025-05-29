@@ -68,6 +68,11 @@ Your app will be live on a public Streamlit URL.
 
 ## 📬 Contact
 
-Questions? Reach out to the Educational Leadership team at ECU or contact the repository maintainer.
+## 📬 Contact
+
+Developed by Dr. Travis Lewis, Associate Professor of Educational Leadership  
+East Carolina University | College of Education  
+📧 Email: lewist16@ecu.edu  
+🌐 [Educational Leadership at ECU](https://education.ecu.edu/leed/)
 
 Go Pirates! 💜💛
